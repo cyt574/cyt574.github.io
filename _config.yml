@@ -4,7 +4,7 @@
 deploy:
   type: git
   repo: https://github.com/cyt574/cyt574.github.io.git
-  branch: public
+  branch: master
 
 # Site
 title: 堂哥的博客
